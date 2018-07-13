@@ -2,7 +2,7 @@
 var App = {
   contracts: {},
   // address in Ropsten Testnet:
-  CryptoPlanetsAddress: '0x950158ae28e707262295Aa0be83912c52B94D0bD',
+  CryptoPlanetsAddress: '0x98bEC182520835C6c148354e4EEFf4A0b62c5C77',
 
   init() {
     return App.initWeb3();
