@@ -1,6 +1,6 @@
-# cryptoplanets
+# cryptoPlanets
 
-contract deployed to Ropsten Testnet
+deployed to Ropsten Testnet
 
 see 
 src/js/planets.js:
